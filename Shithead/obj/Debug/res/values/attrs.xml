@@ -1,0 +1,1 @@
+<resources><declare-styleable name="Options"><attr name="titleText" format="string" localization="suggested" /><attr name="valueColor" format="color" /></declare-styleable></resources>

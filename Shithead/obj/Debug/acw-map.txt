@@ -1,0 +1,16 @@
+Shithead.GameActivity, Shithead;md579099b0deaa46e84907b57b7106ba3df.GameActivity
+Shithead.GameActivity, Shithead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579099b0deaa46e84907b57b7106ba3df.GameActivity
+Shithead.GameActivity;md579099b0deaa46e84907b57b7106ba3df.GameActivity
+shithead.GameActivity;md579099b0deaa46e84907b57b7106ba3df.GameActivity
+Shithead.HandView, Shithead;md579099b0deaa46e84907b57b7106ba3df.HandView
+Shithead.HandView, Shithead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579099b0deaa46e84907b57b7106ba3df.HandView
+Shithead.HandView;md579099b0deaa46e84907b57b7106ba3df.HandView
+shithead.HandView;md579099b0deaa46e84907b57b7106ba3df.HandView
+Shithead.MainActivity, Shithead;md579099b0deaa46e84907b57b7106ba3df.MainActivity
+Shithead.MainActivity, Shithead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579099b0deaa46e84907b57b7106ba3df.MainActivity
+Shithead.MainActivity;md579099b0deaa46e84907b57b7106ba3df.MainActivity
+shithead.MainActivity;md579099b0deaa46e84907b57b7106ba3df.MainActivity
+Shithead.PlayingCardView, Shithead;md579099b0deaa46e84907b57b7106ba3df.PlayingCardView
+Shithead.PlayingCardView, Shithead, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579099b0deaa46e84907b57b7106ba3df.PlayingCardView
+Shithead.PlayingCardView;md579099b0deaa46e84907b57b7106ba3df.PlayingCardView
+shithead.PlayingCardView;md579099b0deaa46e84907b57b7106ba3df.PlayingCardView

@@ -1,0 +1,9 @@
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\bin\Debug\ShitheadConsole.exe.config
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\bin\Debug\ShitheadConsole.exe
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\bin\Debug\ShitheadConsole.pdb
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\obj\Debug\ShitheadConsole.csprojResolveAssemblyReference.cache
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\obj\Debug\ShitheadConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\obj\Debug\ShitheadConsole.exe
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\obj\Debug\ShitheadConsole.pdb
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\bin\Debug\Shithead.dll
+C:\Users\Billy\source\repos\Shithead\ShitheadConsole\bin\Debug\Shithead.pdb
