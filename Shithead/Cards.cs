@@ -17,6 +17,9 @@ namespace Shithead
 
         private List<Card> _cards;
 
+        /// <summary>
+        /// Gets or sets the  cards collection
+        /// </summary>
         protected List<Card> CardsCollection
         {
             get
@@ -29,16 +32,26 @@ namespace Shithead
             }
         }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Cards"/> class.
+        /// </summary>
         public Cards()
         {
             CardsCollection = new List<Card>();
         }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Cards"/> class.
+        /// </summary>
+        /// <param name="size"></param>
         public Cards(int size)
         {
             CardsCollection = new List<Card>(size);
         }
 
+        /// <summary>
+        /// Shuffle the cards
+        /// </summary>
         public void ShuffleCards()
         {
             if (CardsCollection != null)
@@ -79,6 +92,9 @@ namespace Shithead
             CardsCollection.RemoveAt(index);
         }
 
+        /// <summary>
+        /// Clear the cards
+        /// </summary>
         public void Clear()
         {
             CardsCollection.Clear();
